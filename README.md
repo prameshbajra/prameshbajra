@@ -1,16 +1,21 @@
-### Hi there 👋
+## :pray: Hi there, I'm Pramesh.
+#### :bow: Nice to see you here.
 
-<!--
-**prameshbajra/prameshbajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a **Computer Engineer** having passion for everything related technology.
+I love smartphones, laptops - basically all gadgets. You can take me as a **“MixBag”** having
+knowledge in Full stack development, Machine learning, Deep learning, Automation, deployments and many others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+:eyes: Find me: http://prameshbajra.github.io/
+
+:thought_balloon: Feel free to reach me at: pe.messh@gmail.com
+
+
+
+
+
