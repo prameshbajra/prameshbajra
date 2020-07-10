@@ -9,7 +9,7 @@ Full-Stack Developer :computer: | Software engineer :mortar_board: | Investor :m
 
 ## About me 
 
-:heart: Developer | :black_heart: Investment/Economy | :blue_heart: Sports
+:heart: Programming | :black_heart: Investing | :blue_heart: Sports 
 
 I am a **Computer Engineer** having passion for everything related technology.
 I love smartphones, laptops and basically all gadgets. You can take me as a “MixBag” having
