@@ -27,7 +27,7 @@ knowledge in Full stack Development, Machine learning, Deep learning, Automation
 
 ## Currently
 
-Working at **CodeMantra, Chennai :city_sunrise:** as a **Full Stack Developer :diamond_shape_with_a_dot_inside: and Machine Learning Practitioner :robot: **
+Working at **CodeMantra, Chennai :city_sunrise:** as a **Full Stack Developer** :diamond_shape_with_a_dot_inside: and **Machine Learning Practitioner** :robot:
 
 
 ## Social media :mailbox_with_no_mail:
