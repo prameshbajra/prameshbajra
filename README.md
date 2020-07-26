@@ -20,9 +20,9 @@ knowledge in Full stack Development, Machine learning, Deep learning, Automation
 
 :fire: Working on: 
 
-    - Serverless Framework
-    - AWS Serverless entities: Lambdas | DynamoDB | SNS | Gateways | S3 | EC2 
-    - Cloud Architecture :heart:
+- :zap: Serverless Framework
+- :earth_asia: AWS Serverless entities: Lambdas | DynamoDB | SNS | Gateways | S3 | EC2 
+- :cloud: Cloud Architecture :heart:
 
 
 ## Currently
