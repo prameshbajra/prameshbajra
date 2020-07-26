@@ -18,6 +18,12 @@ knowledge in Full stack Development, Machine learning, Deep learning, Automation
 
 :gem: I love to trying out new things every now and then.
 
+:fire: Working on: 
+
+    - Serverless Framework
+    - AWS Serverless entities: Lambdas | DynamoDB | SNS | Gateways | S3 | EC2 
+    - Cloud Architecture :heart:
+
 
 ## Currently
 
