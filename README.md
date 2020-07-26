@@ -16,7 +16,7 @@ I love smartphones, laptops and basically all gadgets. You can take me as a “M
 knowledge in Full stack Development, Machine learning, Deep learning, Automation, deployments and many others.
 
 
-:gem: I love to trying out new things every now and then.
+:gem: I love trying out new things every now and then.
 
 :fire: Working on: 
 
