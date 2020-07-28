@@ -38,4 +38,3 @@ Working at **CodeMantra, Chennai :city_sunrise:** as a **Full Stack Developer** 
 
 
 <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true" />
----
