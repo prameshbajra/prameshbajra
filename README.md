@@ -3,7 +3,7 @@
 
 # Hi, I'm Pramesh Bajracharya :sunglasses:
 
-Full-Stack Developer :computer: | Software engineer :mortar_board: | Investor :moneybag:
+Software Engineer :computer: | Investor :moneybag: | Sporty :basketball_man:
 
 
 
