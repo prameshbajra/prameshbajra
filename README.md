@@ -36,4 +36,4 @@ Working at **CodeMantra, Chennai :city_sunrise:** as a **Full Stack Developer** 
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/prameshbajra)
 
 
-<img  width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true&theme=dark&bg_color=22272e" />
+<img  width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true" />
