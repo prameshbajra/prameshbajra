@@ -20,7 +20,7 @@ knowledge in Full stack Development, Machine learning, Deep learning, Automation
 
 :fire: Working on: 
 
-- :computer: JavaScript, Python and Java.
+- :computer: JavaScript/TypeScript Python and Java.
 - :cloud: Cloud Architecture and many things Serverless :zap:
 
 
