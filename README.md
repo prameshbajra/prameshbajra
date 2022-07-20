@@ -9,18 +9,18 @@ Software Engineer :computer: | Investor :moneybag: | Sporty :basketball_man:
 
 ## About me 
 
-:heart: Programming | :black_heart: Investing | :blue_heart: Sports 
+:heart: Programmer | :black_heart: Investing | :blue_heart: Sports 
 
 I am a **Software Engineer** having passion for everything related technology.
 I love smartphones, laptops and basically all tech gadgets. You can take me as a “MixBag” having
-knowledge in Full stack Development, Machine learning, Deep learning, Automation, deployments and many others.
+knowledge in Full Stack Development, Machine learning, Deep learning, Automation, deployments and many others.
 
 
 :gem: I love trying out new things every now and then.
 
 :fire: Working on: 
 
-- :computer: JavaScript/TypeScript Python and Java.
+- :computer: JavaScript/TypeScript, Python and Java.
 - :cloud: Cloud Architecture and many things Serverless :zap:
 
 
