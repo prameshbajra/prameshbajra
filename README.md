@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://cdn.iconscout.com/icon/free/png-256/coding-581-896297.png">
+<img align="right" width="450" height="450" src="https://cdn.iconscout.com/icon/free/png-256/coding-581-896297.png">
 
 
 # Hi, I'm Pramesh Bajracharya :sunglasses:
