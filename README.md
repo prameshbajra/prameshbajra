@@ -37,5 +37,6 @@ Working at **TelQ Telecom** as a **Software Engineer**. Previously worked at **C
 [![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://www.reddit.com/user/prameshbajra)
 
 
-<img  width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prameshbajra&theme=github-light)](https://git.io/streak-stats)
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=prameshbajra&theme=github-light"/>
