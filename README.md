@@ -38,3 +38,4 @@ Working at **TelQ Telecom** as a **Software Engineer**. Previously worked at **C
 
 
 <img  width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prameshbajra&theme=github-light)](https://git.io/streak-stats)
