@@ -1,7 +1,7 @@
 <img align="right" width="400" height="400" src="https://cdn.iconscout.com/icon/free/png-256/coding-581-896297.png">
 
 
-# Hi, I'm Pramesh Bajracharya :sunglasses:
+# Hi, I'm Pramesh Bajracharya :sunglasses: 
 
 Software Engineer :computer: | Investor :moneybag: | Sporty :basketball_man:
 
