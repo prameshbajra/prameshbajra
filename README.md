@@ -17,7 +17,7 @@ I love smartphones, laptops and basically all tech gadgets. You can take me as a
 knowledge in Full Stack Development, Machine learning, Deep learning, Automation, deployments and many others.
 
 
-:gem: I love trying out new things.
+:gem: I love trying out new things. 
 
 :fire: Working on: 
 
