@@ -27,7 +27,7 @@ knowledge in Full Stack Development, Machine learning, Deep learning, Automation
 
 ## Currently
 
-Working at **TelQ Telecom** as a **Software Engineer**. Previously worked at **CodeMantra, Chennai :city_sunrise:** as a **Full Stack Developer** :diamond_shape_with_a_dot_inside: and **Machine Learning Practitioner** :robot:
+Working at **TelQ Telecom, Hamburg :dizzy:	, Germany :de:	** as a **Software Engineer**. Previously worked at **CodeMantra, Chennai :city_sunrise:** as a **Full Stack Developer** :diamond_shape_with_a_dot_inside: and **Machine Learning Practitioner** :robot:
 
 
 ## Social media :mailbox_with_no_mail: 
