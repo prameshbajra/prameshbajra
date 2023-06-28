@@ -13,7 +13,7 @@ Software Engineer :computer: | Investor :moneybag: | Sporty :basketball_man:
 
 
 I am a **Software Engineer** having passion for everything related to technology.
-I love smartphones, laptops and basically all tech gadgets. You can take me as a “MixBag” having
+I love smartphones, laptops and basically all tech gadgets. You can consider me as a “MixBag” having
 knowledge in Full Stack Development, Machine learning, Deep learning, Automation, deployments and many others.
 
 
