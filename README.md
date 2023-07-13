@@ -19,10 +19,10 @@ knowledge in Full Stack Development, Machine learning, Deep learning, Automation
 
 :gem: I love trying out new things. 
 
-:fire: Working on: 
+:fire: I work with: 
 
-- :computer: JavaScript/TypeScript, Python and Java.
-- :cloud: Cloud Architecture and many things Serverless :zap:
+- :computer: TypeScript, Python and learning Dart.
+- :cloud: Cloud Architecture and Serverless things :zap:
 
 
 ## Currently
