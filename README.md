@@ -21,7 +21,7 @@ knowledge in Full Stack Development, Machine learning, Deep learning, Automation
 
 :fire: I work with: 
 
-- :computer: TypeScript, Python, Java and little Dart.
+- :computer: TypeScript, Python, Java and some Dart.
 - :cloud: Cloud Architecture and Serverless things :zap:
 
 
