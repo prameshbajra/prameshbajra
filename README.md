@@ -40,8 +40,8 @@ Previously worked at **CodeMantra, Chennai :city_sunrise:, India :india:** as a 
 
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=prameshbajra&count_private=true&show_icons=true" />
-<a href="https://prameshbajra.github.io"><img src="https://streak-stats.demolab.com?user=prameshbajra&card_width=1024" alt="GitHub Streak" /></a>
 
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=prameshbajra&theme=github-light"/>
 
 
 
