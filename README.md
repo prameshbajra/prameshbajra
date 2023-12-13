@@ -9,7 +9,7 @@ Software Engineer :computer: | Investor :moneybag: | Sporty :basketball_man:
  
 ## About Me 
 
-:heart: Programmer | :black_heart: Investing | :blue_heart: Sports 
+:heart: Programmer | :green_heart: Investing | :blue_heart: Sports 
 
 
 I am a **Software Engineer** having passion for everything related to technology.
