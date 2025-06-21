@@ -3,7 +3,7 @@
 
 # Hi, I'm Pramesh Bajracharya :sunglasses: 
 
-Software Engineer :computer: | Investor :moneybag: | Sporty :basketball_man: 
+Software Engineer :computer: | Investor :moneybag: | Into sports :basketball_man: 
 
 
  
