@@ -12,7 +12,7 @@ Software Engineer :computer: | Investor :moneybag: | Sports :basketball_man:
 :heart: Software | :green_heart: Investing | :blue_heart: Sports 
 
 
-I am a **Software Engineer** having passion for everything related to technology.
+I am a **Software Engineer** having passion for everything related technology.
 I love smartphones, laptops and basically all tech gadgets. You can consider me as a “MixBag” having
 knowledge in Web Development (Frontend and Backend), Machine learning, Deep learning, Automation, deployments and others.
 
