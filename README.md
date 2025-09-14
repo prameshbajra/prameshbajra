@@ -23,6 +23,7 @@ knowledge in Web Development (Frontend and Backend), Machine learning, Deep lear
 
 - :computer: TypeScript, Python, Java and some Dart.
 - :cloud: Cloud Architecture and Serverless things :zap:
+- :triangular_ruler: Shapr3d, TinkerCAD, Bambu Studio. 
 
 
 ## Currently
