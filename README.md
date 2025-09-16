@@ -21,7 +21,7 @@ knowledge in Web Development (Frontend and Backend), Machine learning, Deep lear
 
 :fire: I work with: 
 
-- :computer: TypeScript, Python, Java and some Dart.
+- :computer: TypeScript, Python, Java, Kotlin and some Dart.
 - :cloud: Cloud Architecture and Serverless things :zap:
 - :triangular_ruler: Shapr3d, TinkerCAD, Bambu Studio. 
 
