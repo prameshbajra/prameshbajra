@@ -9,8 +9,6 @@ Software Engineer :computer: | Investor :moneybag: | Sports :basketball_man:
  
 ## About Me 
 
-Software | Investing | Sports 
-
 
 I am a **Software Engineer** having passion for everything related technology.
 I love smartphones, laptops and basically all tech gadgets. You can consider me as a “MixBag” having
